@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dati>
+    <id_max_bag>12</id_max_bag>
+    <id_min_vi>-12</id_min_vi>
+    <tupla>
+        <nome>Mattia</nome>
+        <cognome>Bottaro</cognome>
+        <giorno_p>2</giorno_p>
+        <mese_p>7</mese_p>
+        <anno_p>1995</anno_p>
+        <domicilio>Baone</domicilio>
+        <parte>1</parte>
+        <id_v>-6</id_v>
+        <destinazione>Monselice</destinazione>
+        <modo>TRAIN</modo>
+        <giorno>18</giorno>
+        <mese>5</mese>
+        <anno>2016</anno>
+        <id>6</id>
+        <type>HAND</type>
+        <weight>10</weight>
+        <height>32</height>
+        <width>18</width>
+        <description>Uno zaino contenente libri </description>
+        <depth>20</depth>
+    </tupla>
+    <tupla>
+        <nome>Luca</nome>
+        <cognome>Rossi</cognome>
+        <giorno_p>7</giorno_p>
+        <mese_p>2</mese_p>
+        <anno_p>1990</anno_p>
+        <domicilio>Este</domicilio>
+        <parte>1</parte>
+        <id_v>-7</id_v>
+        <destinazione>Padova</destinazione>
+        <modo>TRAIN</modo>
+        <giorno>1</giorno>
+        <mese>6</mese>
+        <anno>2016</anno>
+        <id>7</id>
+        <type>NORMAL</type>
+        <weight>2</weight>
+        <height>100</height>
+        <width>26</width>
+        <description>Una chitarra	</description>
+        <depth>12</depth>
+    </tupla>
+    <tupla>
+        <nome>Paolo</nome>
+        <cognome>Pascolo</cognome>
+        <giorno_p>1</giorno_p>
+        <mese_p>1</mese_p>
+        <anno_p>1982</anno_p>
+        <domicilio>Monselice</domicilio>
+        <parte>0</parte>
+        <id_v>-8</id_v>
+        <destinazione>Rovigo</destinazione>
+        <modo>TRUCK</modo>
+        <giorno>2</giorno>
+        <mese>4</mese>
+        <anno>2016</anno>
+        <id>8</id>
+        <type>SPECIAL</type>
+        <weight>20</weight>
+        <height>40</height>
+        <width>30</width>
+        <description>Una tanica contenente liquido infiammabile(benzina)</description>
+        <depth>13</depth>
+    </tupla>
+    <tupla>
+        <nome>Maria Angela</nome>
+        <cognome>Bonato</cognome>
+        <giorno_p>27</giorno_p>
+        <mese_p>3</mese_p>
+        <anno_p>1951</anno_p>
+        <domicilio>Teolo</domicilio>
+        <parte>1</parte>
+        <id_v>-9</id_v>
+        <destinazione>Venezia</destinazione>
+        <modo>TRAIN</modo>
+        <giorno>15</giorno>
+        <mese>5</mese>
+        <anno>2016</anno>
+        <id>9</id>
+        <type>PLANT</type>
+        <weight>3</weight>
+        <height>20</height>
+        <width>12</width>
+        <description>Una semplice piantina con vaso</description>
+        <depth>12</depth>
+    </tupla>
+    <tupla>
+        <nome>Frank</nome>
+        <cognome>Vignola</cognome>
+        <giorno_p>30</giorno_p>
+        <mese_p>12</mese_p>
+        <anno_p>1965</anno_p>
+        <domicilio>Long Island</domicilio>
+        <parte>0</parte>
+        <id_v>-10</id_v>
+        <destinazione>Roma</destinazione>
+        <modo>PLANE</modo>
+        <giorno>24</giorno>
+        <mese>5</mese>
+        <anno>2016</anno>
+        <id>10</id>
+        <type>DANGEROUS ANIMAL</type>
+        <weight>258</weight>
+        <height>100</height>
+        <width>210</width>
+        <description>Un leone di un circo. Memorizzato a nome del titolare</description>
+        <depth>80</depth>
+    </tupla>
+    <tupla>
+        <nome>Mattia</nome>
+        <cognome>Bottaro</cognome>
+        <giorno_p>2</giorno_p>
+        <mese_p>7</mese_p>
+        <anno_p>1995</anno_p>
+        <domicilio>Baone</domicilio>
+        <parte>1</parte>
+        <id_v>-11</id_v>
+        <destinazione>Venezia</destinazione>
+        <modo>SHIP</modo>
+        <giorno>17</giorno>
+        <mese>6</mese>
+        <anno>2016</anno>
+        <id>11</id>
+        <type>TAME ANIMAL</type>
+        <weight>1</weight>
+        <height>11</height>
+        <width>40</width>
+        <description>Un gatto</description>
+        <depth>12</depth>
+    </tupla>
+</dati>

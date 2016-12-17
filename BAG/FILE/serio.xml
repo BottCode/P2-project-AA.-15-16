@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dati>
+    <id_max_bag>5</id_max_bag>
+    <id_min_vi>-5</id_min_vi>
+    <tupla>
+        <nome>Mario</nome>
+        <cognome>Rossi</cognome>
+        <giorno_p>1</giorno_p>
+        <mese_p>1</mese_p>
+        <anno_p>2000</anno_p>
+        <domicilio>Padova</domicilio>
+        <parte>1</parte>
+        <id_v>-4</id_v>
+        <destinazione>Roma</destinazione>
+        <giorno>1</giorno>
+        <mese>1</mese>
+        <anno>2000</anno>
+        <id>4</id>
+        <type>HAND</type>
+        <weight>0</weight>
+        <height>34</height>
+        <width>44</width>
+        <description></description>
+        <depth>12</depth>
+    </tupla>
+</dati>

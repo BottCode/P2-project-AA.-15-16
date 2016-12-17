@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dati>
+    <id_max_bag>3</id_max_bag>
+    <id_min_vi>-3</id_min_vi>
+    <tupla>
+        <nome>mas</nome>
+        <cognome>gug</cognome>
+        <giorno_p>1</giorno_p>
+        <mese_p>1</mese_p>
+        <anno_p>2000</anno_p>
+        <domicilio>ugu</domicilio>
+        <parte>0</parte>
+        <id_v>-1</id_v>
+        <destinazione>vu</destinazione>
+        <giorno>1</giorno>
+        <mese>1</mese>
+        <anno>2000</anno>
+        <id>1</id>
+        <type>NORMAL</type>
+        <weight>43</weight>
+        <height>65</height>
+        <width>64</width>
+        <description>dfd,de		</description>
+        <depth>45</depth>
+    </tupla>
+    <tupla>
+        <nome>rv</nome>
+        <cognome>vr</cognome>
+        <giorno_p>1</giorno_p>
+        <mese_p>1</mese_p>
+        <anno_p>2000</anno_p>
+        <domicilio>vr</domicilio>
+        <parte>0</parte>
+        <id_v>-2</id_v>
+        <destinazione>vr</destinazione>
+        <giorno>1</giorno>
+        <mese>1</mese>
+        <anno>2000</anno>
+        <id>2</id>
+        <type>HAND</type>
+        <weight>63</weight>
+        <height>36</height>
+        <width>36</width>
+        <description>vv</description>
+        <depth>63</depth>
+    </tupla>
+</dati>

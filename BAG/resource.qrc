@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>icone/vis-lug.png</file>
+        <file>icone/search.png</file>
+        <file>icone/reset.png</file>
+        <file>icone/remove_this.png</file>
+        <file>icone/remove_last.png</file>
+        <file>icone/remove_all.png</file>
+        <file>icone/remove.png</file>
+        <file>icone/refresh.png</file>
+        <file>icone/more_info.png</file>
+        <file>icone/icon-lug.png</file>
+        <file>icone/add.png</file>
+        <file>icone/search_result.png</file>
+        <file>icone/actions.png</file>
+        <file>icone/save.png</file>
+        <file>icone/load.png</file>
+        <file>icone/upload.png</file>
+    </qresource>
+</RCC>
